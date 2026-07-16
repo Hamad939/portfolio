@@ -147,7 +147,7 @@ export default function About() {
                 <span className="text-emerald-500/30 font-normal mr-1.5">
                   ●
                 </span>
-                Completed
+                Final Year
               </span>
             </div>
           </div>

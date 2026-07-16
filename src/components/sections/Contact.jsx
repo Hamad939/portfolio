@@ -84,7 +84,7 @@ export default function Contact() {
                   setFormData({ ...formData, name: e.target.value })
                 }
                 className="w-full rounded-lg bg-neutral-950/80 border border-neutral-800/80 px-4 py-3 text-sm text-white placeholder-neutral-600 focus:outline-none focus:border-purple-500 focus:ring-1 focus:ring-purple-500/20 transition-all duration-200"
-                placeholder="John Doe"
+                placeholder="Hamad"
               />
             </div>
 
