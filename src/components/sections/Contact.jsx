@@ -15,7 +15,7 @@ export default function Contact() {
 
     // Standard JavaScript Object payload formatted cleanly for Web3Forms API
     const jsonPayload = {
-      access_key: process.env.WEB3FORM_KEY,
+      access_key: import.meta.env.VITE_WEB3FORM_KEY,
       name: formData.name,
       email: formData.email,
       message: formData.message,
